@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LOVE or HATE?",
+  "base_artist": "前島麻由",
+  "createdAt": "2026-02-11T20:08:47.019564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE or HATE?",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/01_LOVE_or_HATE_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Or Hate",
+      "artist": "Vintage Culture",
+      "has_synced": true,
+      "path": "select/02_Love_Or_Hate_Vintage_Culture.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love or Hate",
+      "artist": "Ryu Su Jeong",
+      "has_synced": true,
+      "path": "select/03_Love_or_Hate_Ryu_Su_Jeong.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Or Hate",
+      "artist": "Vintage Culture & Liu Bei",
+      "has_synced": true,
+      "path": "select/04_Love_Or_Hate_Vintage_Culture_&_Liu_Bei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Or Hate Me",
+      "artist": "Charleon",
+      "has_synced": true,
+      "path": "select/05_Love_Or_Hate_Me_Charleon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LOVE OR HATE?",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/06_LOVE_OR_HATE_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love or Hate",
+      "artist": "Ryu Su Jeong",
+      "has_synced": true,
+      "path": "select/07_Love_or_Hate_Ryu_Su_Jeong.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love or Hate",
+      "artist": "Ryu Sujeong",
+      "has_synced": true,
+      "path": "select/08_Love_or_Hate_Ryu_Sujeong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Or Hate",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/09_Love_Or_Hate_Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Or Hate",
+      "artist": "BrxkenBlood",
+      "has_synced": true,
+      "path": "select/10_Love_Or_Hate_BrxkenBlood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Or Hate Me",
+      "artist": "Lady Sovereign",
+      "has_synced": true,
+      "path": "select/11_Love_Or_Hate_Me_Lady_Sovereign.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE OR HATE?",
+      "artist": "Mayu Maeshima",
+      "has_synced": false,
+      "path": "select/12_LOVE_OR_HATE_Mayu_Maeshima.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Or Hate (feat. Lowkey Kilo)",
+      "artist": "Just Khai",
+      "has_synced": false,
+      "path": "select/13_Love_Or_Hate_(feat._Lowkey_Kilo)_Just_Khai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE or HATE?",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_or_HATE_前島麻由.txt"
+    }
+  ]
+}
